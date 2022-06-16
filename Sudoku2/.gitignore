@@ -1,0 +1,10 @@
+\.idea
+\META-INF
+\users.tmp
+\target
+
+users.lck
+users.log
+users.properties
+users.script
+
